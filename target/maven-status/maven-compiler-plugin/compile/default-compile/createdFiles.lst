@@ -1,0 +1,3 @@
+ru\kut\epamWeb\config\DispatcherServletInitializer.class
+ru\kut\epamWeb\Controller\HelloController.class
+ru\kut\epamWeb\config\SpringConfig.class
